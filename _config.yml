@@ -2,8 +2,8 @@
 title: BY Blog
 SEOTitle:  bochengliang| BY Blog
 header-img: img/post-bg-desk.jpg
-email: bochengliang@gmail.com
-description: "Every failure is leading towards success."
+email: 397079274@qq.com
+description: "Learn not to be famous and swear not to return"
 keyword: "BY, BY Blog, 梁泡泡的博客, qiubaiying, 梁泡泡, iOS, Apple, iPhone"
 url: "http://bochengliang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -66,7 +66,8 @@ gitalk:
   clientSecret: f2c968867eae4d5b4a1c62e96a3501d30100aec2    #生成的clientSecret
   repo: bochengliang.github.io    #仓库名称
   owner: bochengliang    #github用户名
-  admin: ['bochengliang']
+  admin: 'bochengliang'
+  id: 'window.location.pathname
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
